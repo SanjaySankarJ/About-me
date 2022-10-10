@@ -5,4 +5,5 @@
 - I'm currently pursuing Computer Science Engineering degree💻. 
 - I'm open to collaborate on projects👨🏻‍💼.
 - I'm interested in Data science📊 and Blockchain🔗.
-- 📬 Reach me through ... sanjaysankarj@gmail.com.
+- 📬 Reach me through... sanjaysankarj@gmail.com.
+- Find my Linkedin profile at... https://www.linkedin.com/in/sanjay-sankar-j-360566220/
